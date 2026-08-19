@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_step_level_title">SELECT YOUR TIER</string>
+    <string name="onboarding_step_level_subtitle">We will adapt the difficulty to your profile.</string>
+
+    <string name="onboarding_step_subjects_title">CORE SUBJECTS</string>
+    <string name="onboarding_step_subjects_subtitle">Pick at least one field of expertise.</string>
+
+    <string name="onboarding_step_style_title">AI RESPONSE STYLE</string>
+    <string name="onboarding_step_style_subtitle">AI will output in your preferred format.</string>
+
+    <string name="onboarding_level_junior">JUNIOR PRO</string>
+    <string name="onboarding_level_junior_hint">Grades 6 – 9</string>
+    <string name="onboarding_level_high">SENIOR ELITE</string>
+    <string name="onboarding_level_high_hint">Grades 10 – 12</string>
+    <string name="onboarding_level_uni">MASTER CLASS</string>
+    <string name="onboarding_level_uni_hint">University / College</string>
+
+    <string name="onboarding_style_short">QUICK ATTACK</string>
+    <string name="onboarding_style_short_hint">Direct, high-speed answer</string>
+    <string name="onboarding_style_stepwise">TACTICAL</string>
+    <string name="onboarding_style_stepwise_hint">Step-by-step breakdown</string>
+    <string name="onboarding_style_detailed">ULTIMATE</string>
+    <string name="onboarding_style_detailed_hint">In-depth with logic analysis</string>
+
+    <string name="onboarding_back">PREVIOUS</string>
+    <string name="onboarding_continue">NEXT STEP</string>
+    <string name="onboarding_finish">ENTER ARENA</string>
+    <string name="onboarding_pick_subject">Select at least one subject.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Study Mentor</string>
+
+    <string name="nav_home">Home</string>
+    <string name="home_greeting">Hello, what would you like to learn today?</string>
+    <string name="nav_ask">Ask</string>
+    <string name="nav_history">Library</string>
+    <string name="nav_progress">Stats</string>
+
+    <string name="subject_math">Math</string>
+    <string name="subject_science">Science</string>
+    <string name="subject_code">Coding</string>
+    <string name="subject_history">History</string>
+    <string name="subject_language">Language</string>
+    <string name="subject_other">Other</string>
+
+    <string name="ask_title">AI Mentor</string>
+    <string name="ask_hint">Describe your question... (Math, Science, Coding, History...)</string>
+    <string name="ask_send">Send</string>
+    <string name="ask_sending">Thinking...</string>
+    <string name="ask_empty">Please enter a question.</string>
+    <string name="ask_no_api_key">API Key not set in local.properties</string>
+    <string name="ask_error">AI Error. Try again.</string>
+
+    <string name="answer_not_found">Solution not found.</string>
+    <string name="answer_back">Back</string>
+    <string name="answer_question_label">QUESTION</string>
+    <string name="answer_steps_label">AI STEP-BY-STEP SOLUTION</string>
+    <string name="answer_final_label">FINAL VERDICT</string>
+</resources>

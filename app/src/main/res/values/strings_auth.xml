@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_login_title">Sign In</string>
+    <string name="auth_login_subtitle">Continue your excellence journey.</string>
+    <string name="auth_register_title">Join the Elite</string>
+    <string name="auth_register_subtitle">Start your study career here.</string>
+    <string name="auth_email_label">USER EMAIL</string>
+    <string name="auth_password_label">PASSWORD</string>
+    <string name="auth_fullname_label">FULL NAME</string>
+    <string name="auth_password_hint">Min 6 characters</string>
+    <string name="auth_login_btn">Sign In</string>
+    <string name="auth_register_btn">Sign Up</string>
+    <string name="auth_no_account">New candidate? Register</string>
+    <string name="auth_have_account">Existing member? Login</string>
+    <string name="auth_back_home">← BACK TO HOME</string>
+
+    <string name="auth_error_empty_fields">Fill all attributes.</string>
+    <string name="auth_error_invalid_email">Invalid email format.</string>
+    <string name="auth_error_password_short">Min 6 chars required.</string>
+    <string name="auth_error_invalid_credentials">Unauthorized access.</string>
+    <string name="auth_error_name_required">Identity name required.</string>
+    <string name="auth_error_email_taken">Email already in system.</string>
+    <string name="auth_success_register">Registration complete!</string>
+</resources>
